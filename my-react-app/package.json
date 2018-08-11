@@ -13,5 +13,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-amd": "^6.24.1",
+    "install": "^0.12.1",
+    "npm": "^6.3.0"
   }
 }
