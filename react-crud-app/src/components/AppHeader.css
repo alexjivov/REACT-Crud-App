@@ -1,4 +1,12 @@
 nav{
     background-color: blue;
     color:white;
+    padding-top: 10px; 
+  
+}
+
+h3 {
+    font-size: 25px;
+    text-align: center;  
+   
 }
